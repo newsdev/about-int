@@ -18,7 +18,7 @@ Guide, train and support the use of our tools
 - And much more
 
 
-Interested in learning more about the team and notifications when we have openings? Take a moment to fill out our [contact form]( (you may receive a note from us occasionally).
+Interested in learning more about the team and notifications when we have openings? Take a moment to fill out our [contact form] (you may receive a note from us occasionally).
 
 
 [data pipeline]: https://source.opennews.org/articles/introducing-elex-tool-make-election-coverage-bette/
@@ -27,3 +27,5 @@ Interested in learning more about the team and notifications when we have openin
 [messaging experience]: https://open.nytimes.com/from-pyeongchang-to-your-pocket-developing-a-new-way-to-follow-the-olympics-1e8904ee0919
 [stories dependent on reader voices]: https://www.nytimes.com/interactive/2018/05/10/style/sexual-consent-college-campus.html 
 [API]: https://source.opennews.org/articles/london-calling-winning-data-olympics/
+
+[contact form]: https://docs.google.com/forms/d/e/1FAIpQLSdDkc41UNSYbLibIowiMSccVhrkJ-22v39wlV4kHCxHGo3qWg/viewform
