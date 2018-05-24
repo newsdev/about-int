@@ -1,3 +1,5 @@
+![cool flickering code header][logo]
+
 # How can a developer help The New York Times newsroom?
 
 The Interactive News team at The New York Times is looking for creative, interdisciplinary thinkers with strong technical backgrounds.
@@ -29,3 +31,6 @@ Interested in learning more about the team and notifications when we have openin
 [API]: https://source.opennews.org/articles/london-calling-winning-data-olympics/
 
 [contact form]: https://docs.google.com/forms/d/e/1FAIpQLSdDkc41UNSYbLibIowiMSccVhrkJ-22v39wlV4kHCxHGo3qWg/viewform
+
+[logo]: https://github.com/newsdev/about-int/raw/master/img/code-int-jumbo.gif
+
