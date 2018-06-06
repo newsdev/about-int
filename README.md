@@ -18,6 +18,7 @@ We are a digital projects team embedded within The New York Times newsroom. We b
 - Tools to collect reader submissions to drive [stories dependent on reader voices]
 - The [API] that powers our Olympic results and graphics
 - A [Django app] for accessing Supreme Court data
+- A [facial recognition tool] to recognize members of Congress
 - And much more
 
 
@@ -31,6 +32,7 @@ Interested in learning more about the team and notifications when we have openin
 [stories dependent on reader voices]: https://www.nytimes.com/interactive/2018/05/10/style/sexual-consent-college-campus.html
 [API]: https://source.opennews.org/articles/london-calling-winning-data-olympics/
 [Django app]: https://github.com/newsdev/nyt-scotus
+[facial recognition tool]: https://open.nytimes.com/how-the-new-york-times-uses-software-to-recognize-members-of-congress-29b46dd426c7
 
 [contact form]: https://docs.google.com/forms/d/e/1FAIpQLSdDkc41UNSYbLibIowiMSccVhrkJ-22v39wlV4kHCxHGo3qWg/viewform
 
