@@ -79,11 +79,11 @@ Interested in learning more about the team and notifications when we have openin
 
 ## Press
 
-  * NiemanLab, 2018: [With its new Olympics texting experiment, the Times is saying goodbye to SMS, hello to personalization](  ttp://www.niemanlab.org/2018/02/with-its-new-olympics-texting-experiment-the-times-is-saying-goodbye-to-sms-hello-to-personalization/)
+  * NiemanLab, 2018: [With its new Olympics texting experiment, the Times is saying goodbye to SMS, hello to personalization](http://www.niemanlab.org/2018/02/with-its-new-olympics-texting-experiment-the-times-is-saying-goodbye-to-sms-hello-to-personalization/)
   * 2018: [How a Times Software Engineer Ended Up Covering Miss America](https://www.nytimes.com/2018/09/12/insider/miss-america-data-software.html)
   * 2017: [Developing New Live Coverage Story Formats](https://open.nytimes.com/srccon-recap-developing-new-live-coverage-story-formats-894a125b7752)
   * 2016: [I Tracked and Tried to Outsmart ‘Hamilton’ Scalpers — With 341 Lines of Code](https://www.nytimes.com/2016/08/16/insider/i-tracked-and-tried-to-outsmart-hamilton-scalpers-with-341-lines-of-code.html)
-  * NiemanLab, 2015: [The New York Times liveblogged last night’s GOP debate directly from Slack](  ttp://www.niemanlab.org/2015/08/the-new-york-times-live-blogged-last-nights-gop-debate-directly-from-slack/)
+  * NiemanLab, 2015: [The New York Times liveblogged last night’s GOP debate directly from Slack](http://www.niemanlab.org/2015/08/the-new-york-times-live-blogged-last-nights-gop-debate-directly-from-slack/)
   * Poynter, 2012: [New York Times news apps team ventures into product development with Olympics syndication](https://www.poynter.org/news/new-york-times-news-apps-team-ventures-product-development-olympics-syndication)
   * Mizzou, 2011: [The Times techie](http://mizzoumagarchives.missouri.edu/2011-Summer/features/times-techie/index.php)
   * ISOJ, 2010: [The Journalist as Programmer: A Case Study of The New York Times Interactive News Technology Department ](https://www.isoj.org/wp-content/uploads/2016/10/ISOJ_Journal_V2_N1_2012_Spring.pdf#page=5)
