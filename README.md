@@ -14,7 +14,7 @@ We build tools for reporters, editors, and designers as well as special projects
   * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
   * [Annie Daniel](https://github.com/anniedaniel)
   * [Scott Blumenthal](https://twitter.com/blumysden) ([github](https://github.com/blumysden))
-  * [Tiff Fehr](https://github.com/tiffehr)
+  * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
   * Sam Jacoby
   * Aaron Krolik
   * [Ben Koski](https://github.com/bkoski)
