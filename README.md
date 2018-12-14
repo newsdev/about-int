@@ -2,10 +2,16 @@
 
 # How can a developer help The New York Times newsroom?
 
+## We Are Currently Hiring!
+
+  * [Newsroom UX Software Engineer](https://nytimes.wd5.myworkdayjobs.com/en-US/News/job/New-York-NY/Newsroom-UX-Software-Engineer_REQ-004251-3)
+  * [Full-Stack Newsroom Software Engineer](#) Link TK soon!
+
 ## Who We Are
 We are a digital projects team embedded within The New York Times newsroom. We work on behind-the-scenes technology, collaborating with teams that handle data, graphics, and unique design presentations. 
 
 We build tools for reporters, editors, and designers as well as special projects for our readers.  We run experiments and guide, train, and support the use of these tools.
+
 
 **The Team**
 
