@@ -71,11 +71,11 @@ We build tools for reporters, editors, and designers as well as special projects
 
 We collaborate closely with [NYT Graphics](https://twitter.com/nytgraphics), our Computer-Assisted Reporting desk, [NYT News Design](https://twitter.com/nytdesign), [The Upshot](https://www.nytimes.com/section/upshot), and the [NYT technology department](https://open.nytimes.com/workplace-culture/home).
 
-## Interested in joining?
+## Stay In Touch
 
 The Interactive News team at The New York Times is always looking to connect with creative, interdisciplinary thinkers with strong technical backgrounds.
 
-Interested in learning more about the team and notifications when we have openings? Take a moment to fill out our [contact form](https://docs.google.com/forms/d/e/1FAIpQLSdDkc41UNSYbLibIowiMSccVhrkJ-22v39wlV4kHCxHGo3qWg/viewform) (you may receive a note from us occasionally).
+Browse our current openings [here](https://github.com/newsdev/about-int#we-are-currently-hiring). If these aren't the right fit but you are interested in receiving notifications when we have other open positions, take a moment to fill out our [contact form](https://docs.google.com/forms/d/e/1FAIpQLSdDkc41UNSYbLibIowiMSccVhrkJ-22v39wlV4kHCxHGo3qWg/viewform) (you may receive a note from us occasionally).
 
 ## Open Source Invented Here
   * [ArchieML](http://archieml.org/)
