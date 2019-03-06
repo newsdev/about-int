@@ -70,7 +70,7 @@ We collaborate closely with [NYT Graphics](https://twitter.com/nytgraphics), our
 
 The Interactive News team at The New York Times is always looking to connect with creative, interdisciplinary thinkers with strong technical backgrounds.
 
-Browse our current openings [here](https://github.com/newsdev/about-int#we-are-currently-hiring). If these aren't the right fit but you are interested in receiving notifications when we have other open positions, take a moment to fill out our [contact form](https://docs.google.com/forms/d/e/1FAIpQLSdDkc41UNSYbLibIowiMSccVhrkJ-22v39wlV4kHCxHGo3qWg/viewform) (you may receive a note from us occasionally).
+If you're interested, please fill out our [contact form](https://docs.google.com/forms/d/e/1FAIpQLSdDkc41UNSYbLibIowiMSccVhrkJ-22v39wlV4kHCxHGo3qWg/viewform). You may receive a note from us occasionally.
 
 ## Open Source Invented Here
   * [ArchieML](http://archieml.org/)
