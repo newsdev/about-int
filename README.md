@@ -81,7 +81,6 @@ If you're interested, please fill out our [contact form](https://docs.google.com
 ## Press
 
   * NiemanLab, 2018: [With its new Olympics texting experiment, the Times is saying goodbye to SMS, hello to personalization](http://www.niemanlab.org/2018/02/with-its-new-olympics-texting-experiment-the-times-is-saying-goodbye-to-sms-hello-to-personalization/)
-  * 2018: [How a Times Software Engineer Ended Up Covering Miss America](https://www.nytimes.com/2018/09/12/insider/miss-america-data-software.html)
   * 2017: [Developing New Live Coverage Story Formats](https://open.nytimes.com/srccon-recap-developing-new-live-coverage-story-formats-894a125b7752)
   * 2016: [I Tracked and Tried to Outsmart ‘Hamilton’ Scalpers — With 341 Lines of Code](https://www.nytimes.com/2016/08/16/insider/i-tracked-and-tried-to-outsmart-hamilton-scalpers-with-341-lines-of-code.html)
   * NiemanLab, 2015: [The New York Times liveblogged last night’s GOP debate directly from Slack](http://www.niemanlab.org/2015/08/the-new-york-times-live-blogged-last-nights-gop-debate-directly-from-slack/)
