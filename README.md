@@ -76,10 +76,13 @@ If you're interested, please fill out our [contact form](https://docs.google.com
   * [ArchieML](http://archieml.org/)
   * [nyt-fec](https://github.com/newsdev/nyt-fec) and [fech](http://nytimes.github.io/Fech/) 
   * [driveshaft](https://github.com/newsdev/driveshaft)
-  * [docviewer](https://github.com/NYTimes/document-viewer)
+  * [docviewer](https://github.com/nytimes/document-viewer)
+  * [library](https://github.com/nytimes/library)
 
 ## Press
 
+  * 2019: [How We Sped Through 900 Pages of Cohen Documents in Under 10 Minutes](https://www.nytimes.com/2019/03/26/reader-center/times-documents-reporters-cohen.html)
+  * NiemanLab, 2019: [The New York Times has released an open-source tool to let you manage all your internal knowledge more easily](http://www.niemanlab.org/2019/03/the-new-york-times-has-released-an-open-source-tool-to-let-you-manage-all-your-internal-knowledge-more-easily/)
   * NiemanLab, 2018: [With its new Olympics texting experiment, the Times is saying goodbye to SMS, hello to personalization](http://www.niemanlab.org/2018/02/with-its-new-olympics-texting-experiment-the-times-is-saying-goodbye-to-sms-hello-to-personalization/)
   * 2017: [Developing New Live Coverage Story Formats](https://open.nytimes.com/srccon-recap-developing-new-live-coverage-story-formats-894a125b7752)
   * 2016: [I Tracked and Tried to Outsmart ‘Hamilton’ Scalpers — With 341 Lines of Code](https://www.nytimes.com/2016/08/16/insider/i-tracked-and-tried-to-outsmart-hamilton-scalpers-with-341-lines-of-code.html)
