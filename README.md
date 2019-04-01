@@ -1,5 +1,3 @@
-![cool flickering code header][logo]
-
 # How can a developer help The New York Times newsroom?
 
 ## Who We Are
@@ -8,22 +6,21 @@ We are a digital projects team embedded within The New York Times newsroom. We w
 We build tools for reporters, editors, and designers as well as special projects for our readers.  We run experiments and guide, train, and support the use of these tools.
 
 
-**The Team**
+**The Team (alphabetical order)**
 
-  * Mike Andre
-  * [Jeremy Bowers](http://twitter.com/jeremybowers) ([github](https://github.com/jeremyjbowers))
+  * [Mike Andre](https://github.com/mtandre)
   * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
   * [Annie Daniel](https://github.com/anniedaniel)
   * [Scott Blumenthal](https://twitter.com/blumysden) ([github](https://github.com/blumysden))
   * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
-  * Aaron Krolik
+  * [Aaron Krolik](https://github.com/aaronkrolik)
   * [Ben Koski](https://github.com/bkoski)
-  * Jaymin Patel
+  * [Jaymin Patel](https://github.com/jayminkapish)
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
   * [Sara Simon](https://twitter.com/sarambsimon?lang=en) 
   * [Michael Strickland](https://github.com/abstrctn) 
-  * James Thomas
-  * Isaac White
+  * [James Thomas](https://github.com/parisminton)
+  * [Isaac White](https://github.com/isaacwhite)
 
 ## Current Projects
 
@@ -80,6 +77,7 @@ If you're interested, please fill out our [contact form](https://docs.google.com
 
 ## Press
 
+  * 2019: [Hacking our Hiring](https://source.opennews.org/articles/hacking-our-hiring-part-1/) article series in [OpenNews's Source](https://source.opennews.org/), about how Interactive News conducts and evolves our hiring process
   * 2019: [How We Sped Through 900 Pages of Cohen Documents in Under 10 Minutes](https://www.nytimes.com/2019/03/26/reader-center/times-documents-reporters-cohen.html)
   * NiemanLab, 2019: [The New York Times has released an open-source tool to let you manage all your internal knowledge more easily](http://www.niemanlab.org/2019/03/the-new-york-times-has-released-an-open-source-tool-to-let-you-manage-all-your-internal-knowledge-more-easily/)
   * NiemanLab, 2018: [With its new Olympics texting experiment, the Times is saying goodbye to SMS, hello to personalization](http://www.niemanlab.org/2018/02/with-its-new-olympics-texting-experiment-the-times-is-saying-goodbye-to-sms-hello-to-personalization/)
