@@ -20,6 +20,7 @@ We build tools for reporters, editors, and designers as well as special projects
   * [Sara Simon](https://twitter.com/sarambsimon?lang=en) 
   * [Michael Strickland](https://github.com/abstrctn) 
   * [James Thomas](https://github.com/parisminton)
+  * [Bella Virgilio](https://github.com/bellavirgilio)
   * [Isaac White](https://github.com/isaacwhite)
 
 ## Current Projects
