@@ -17,7 +17,6 @@ We build tools for reporters, editors, and designers as well as special projects
   * [Ben Koski](https://github.com/bkoski)
   * [Jaymin Patel](https://github.com/jayminkapish)
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
-  * [Sara Simon](https://twitter.com/sarambsimon?lang=en) 
   * [Michael Strickland](https://github.com/abstrctn) 
   * [James Thomas](https://github.com/parisminton)
   * [Bella Virgilio](https://github.com/bellavirgilio)
