@@ -9,6 +9,7 @@ We build tools for reporters, editors, and designers as well as special projects
 **The Team (alphabetical order)**
 
   * [Mike Andre](https://github.com/mtandre)
+  * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
   * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
   * [Annie Daniel](https://github.com/anniedaniel)
   * [Scott Blumenthal](https://twitter.com/blumysden) ([github](https://github.com/blumysden))
