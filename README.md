@@ -8,20 +8,21 @@ We build tools for reporters, editors, and designers as well as special projects
 
 **The Team (alphabetical order)**
 
-  * [Mike Andre](https://github.com/mtandre)
-  * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
+  * [Aaron Krolik](https://github.com/aaronkrolik)
   * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
+  * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
   * [Annie Daniel](https://github.com/anniedaniel)
+  * [Bella Virgilio](https://github.com/bellavirgilio)
+  * [Ben Koski](https://github.com/bkoski)
+  * [Ben Smithgall](https://github.com/bsmithgall)
+  * [Isaac White](https://github.com/isaacwhite)
+  * [James Thomas](https://github.com/parisminton)
+  * [Jaymin Patel](https://github.com/jayminkapish)
+  * [Michael Strickland](https://github.com/abstrctn) 
+  * [Mike Andre](https://github.com/mtandre)
+  * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
   * [Scott Blumenthal](https://twitter.com/blumysden) ([github](https://github.com/blumysden))
   * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
-  * [Aaron Krolik](https://github.com/aaronkrolik)
-  * [Ben Koski](https://github.com/bkoski)
-  * [Jaymin Patel](https://github.com/jayminkapish)
-  * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
-  * [Michael Strickland](https://github.com/abstrctn) 
-  * [James Thomas](https://github.com/parisminton)
-  * [Bella Virgilio](https://github.com/bellavirgilio)
-  * [Isaac White](https://github.com/isaacwhite)
 
 ## Current Projects
 
