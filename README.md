@@ -1,9 +1,9 @@
 # How can a developer help The New York Times newsroom?
 
 ## Who We Are
-We are a digital projects team embedded within The New York Times newsroom. We work on behind-the-scenes technology, collaborating with teams that handle data, graphics, and unique design presentations. 
+We are a digital projects team embedded within The New York Times newsroom. We work on behind-the-scenes technology, collaborating with teams that handle data, graphics and unique design presentations. 
 
-We build tools for reporters, editors, and designers as well as special projects for our readers.  We run experiments and guide, train, and support the use of these tools.
+We build tools for reporters, editors and designers as well as special projects for our readers.  We run experiments as well as guide, train and support the use of these tools.
 
 
 **The Team (alphabetical order)**
@@ -12,7 +12,6 @@ We build tools for reporters, editors, and designers as well as special projects
   * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
   * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
   * [Annie Daniel](https://github.com/anniedaniel)
-  * [Bella Virgilio](https://github.com/bellavirgilio)
   * [Ben Koski](https://github.com/bkoski)
   * [Ben Smithgall](https://github.com/bsmithgall)
   * [Isaac White](https://github.com/isaacwhite)
@@ -58,11 +57,11 @@ We build tools for reporters, editors, and designers as well as special projects
 **Collaborations with Graphics and The Upshot**
   * [Live Polling](https://www.nytimes.com/interactive/2018/upshot/elections-polls.html)
 
-**Infrastructure** to support operations for newsroom developers across Interactive News, Graphics, and News Design, including a [cloud deployment system](https://open.nytimes.com/agrarian-scale-kubernetes-part-1-7ea703d4de08) that hosts 130+ applications.
+**Infrastructure** to support operations for newsroom developers across Interactive News, [NYT Graphics](https://twitter.com/nytgraphics) and [NYT News Design](https://twitter.com/nytdesign), including a [cloud deployment system](https://open.nytimes.com/agrarian-scale-kubernetes-part-1-7ea703d4de08) that hosts 130+ applications.
 
 ## Our Partners
 
-We collaborate closely with [NYT Graphics](https://twitter.com/nytgraphics), our Computer-Assisted Reporting desk, [NYT News Design](https://twitter.com/nytdesign), [The Upshot](https://www.nytimes.com/section/upshot), and the [NYT technology department](https://open.nytimes.com/workplace-culture/home).
+We collaborate closely with [NYT Graphics](https://twitter.com/nytgraphics), our Computer-Assisted Reporting (CAR) desk, [NYT News Design](https://twitter.com/nytdesign), [The Upshot](https://www.nytimes.com/section/upshot) and the [NYT technology department](https://open.nytimes.com/workplace-culture/home).
 
 ## Stay In Touch
 
