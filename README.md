@@ -22,6 +22,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
   * [Scott Blumenthal](https://twitter.com/blumysden) ([github](https://github.com/blumysden))
   * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
+  * [Will Houp](https://twitter.com/williamhoup)([github](https://github.com/willhoup))
 
 ## Current Projects
 
