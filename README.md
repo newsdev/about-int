@@ -11,6 +11,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Aaron Krolik](https://github.com/aaronkrolik)
   * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
   * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
+  * [Andrew Fischer](https://twitter.com/ndrewfischer) ([github](https://github.com/afischer))
   * [Annie Daniel](https://github.com/anniedaniel)
   * [Ben Koski](https://github.com/bkoski)
   * [Ben Smithgall](https://github.com/bsmithgall)
