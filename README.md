@@ -13,7 +13,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
   * [Andrew Fischer](https://twitter.com/ndrewfischer) ([github](https://github.com/afischer))
   * [Annie Daniel](https://github.com/anniedaniel)
-  * [Asmaa Elkeurti](https://github.com/asmaaelk)
+  * [Asmaa Elkeurti](https://twitter.com/a_elkeurti) ([github](https://github.com/asmaaelk))
   * [Ben Koski](https://github.com/bkoski)
   * [Ben Smithgall](https://github.com/bsmithgall)
   * [Isaac White](https://github.com/isaacwhite)
