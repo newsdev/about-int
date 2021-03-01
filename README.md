@@ -15,7 +15,6 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Annie Daniel](https://github.com/anniedaniel)
   * [Asmaa Elkeurti](https://twitter.com/a_elkeurti) ([github](https://github.com/asmaaelk))
   * [Ben Koski](https://github.com/bkoski)
-  * [Ben Smithgall](https://github.com/bsmithgall)
   * [Isaac White](https://github.com/isaacwhite)
   * [James Thomas](https://github.com/parisminton)
   * [Jaymin Patel](https://github.com/jayminkapish)
