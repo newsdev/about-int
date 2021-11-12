@@ -15,12 +15,9 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Annie Daniel](https://github.com/anniedaniel)
   * [Asmaa Elkeurti](https://twitter.com/a_elkeurti) ([github](https://github.com/asmaaelk))
   * [Ben Koski](https://github.com/bkoski)
-  * [Cindy Yu](https://github.com/cindyyu)
-  * [Emma Baker](https://github.com/emlorraine)
   * [Isaac White](https://github.com/isaacwhite)
   * [James Thomas](https://github.com/parisminton)
   * [Jaymin Patel](https://github.com/jayminkapish)
-  * [Michael Strickland](https://github.com/abstrctn) 
   * [Mike Andre](https://github.com/mtandre)
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
   * [Scott Blumenthal](https://twitter.com/blumysden) ([github](https://github.com/blumysden))
@@ -32,7 +29,7 @@ We build tools for reporters, editors and designers as well as special projects 
 **Self-service newsroom tools** that allow our reporters and editors to publish highly interactive work on their own:
   * [Tap Stories](https://www.nytimes.com/interactive/2018/09/18/multimedia/hurricane-florence-motel-evacuees.html), for creating visual, mobile-first stories
   * [Adventure](https://www.nytimes.com/interactive/2016/12/12/us/law-quiz-criminal-justice.html), for building quizzes and interactive stories
-  * [Chatblog](https://www.nytimes.com/interactive/2018/01/30/us/politics/sotu-address-live.html), for real-time conversations between Times staff and readers
+  * [DocTools](https://www.nytimes.com/2021/11/10/nyregion/cuomo-transcripts-key-moments.html), for deep source-document collaborations, analysis and publishing 
 
 **Reporting tools** to help our newsroom drill deeper into beats and make unexpected connections:
   * An internal campaign finance database and [front end](https://github.com/newsdev/nyt-fec) feeding [stories](https://www.nytimes.com/2018/11/30/us/politics/michael-bloomberg-democrats-donate.html) and [graphics](https://www.nytimes.com/interactive/2018/05/02/us/politics/democratic-fundraising-midterm-elections.html).
@@ -81,7 +78,10 @@ If you're interested, please fill out our [contact form](https://docs.google.com
   * [library](https://github.com/nytimes/library)
 
 ## Press
-
+  * 2021: [Presentation at Tufts University's DISC program](https://tufts.zoom.us/rec/play/UVYJP8G9dhgyEdD7XdogiptnkjQlT2VI_NKqnew3OGjXdTdCW27ZCrZwTQk5lfWhqM6aMFZzyj4k1uXx.l0SrVCK7eviEOzx5?startTime=1632427281000&_x_zm_rtaid=ZxApr5sESB2LkPiVsCHHMg.1636744255943.176c8cba40a093db0e666b4dba335017&_x_zm_rhtaid=105) about our Coronavirus Trackers, from data acquistion (INT & more) to visuals (Graphics)
+  * 2021: [Public Service award from the Pulitzer board](https://www.poynter.org/reporting-editing/2021/the-new-york-times-wins-the-public-service-pulitzer-for-its-coronavirus-coverage/) (Poynter's write-up) 
+  * 2020-2021: [Tracking Covid-19 From Hundreds of Sources, One Extracted Record at a Time](https://open.nytimes.com/tracking-covid-19-from-hundreds-of-sources-one-extracted-record-at-a-time-dd8cbd31f9b4) which details INT's role in our Coronavirus Trackers during the pandemic
+  * 2020: [2020 Philip Meyer (data) journalism award](https://www.ire.org/ire-announces-winners-of-2020-philip-meyer-journalism-award/) from by [I.R.E.](https://www.ire.org/) and the broader "news nerd" community
   * 2019: [Hacking our Hiring](https://source.opennews.org/articles/hacking-our-hiring-part-1/) article series in [OpenNews's Source](https://source.opennews.org/), about how Interactive News conducts and evolves our hiring process
   * 2019: [How We Sped Through 900 Pages of Cohen Documents in Under 10 Minutes](https://www.nytimes.com/2019/03/26/reader-center/times-documents-reporters-cohen.html)
   * NiemanLab, 2019: [The New York Times has released an open-source tool to let you manage all your internal knowledge more easily](http://www.niemanlab.org/2019/03/the-new-york-times-has-released-an-open-source-tool-to-let-you-manage-all-your-internal-knowledge-more-easily/)
