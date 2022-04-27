@@ -24,6 +24,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Scott Blumenthal](https://twitter.com/blumysden) ([github](https://github.com/blumysden))
   * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
   * [Will Houp](https://twitter.com/williamhoup) ([github](https://github.com/willhoup))
+  * [Amy Hughes](https://github.com/amykatherinehughes)
 
 ## Current Projects
 
