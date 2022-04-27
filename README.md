@@ -19,6 +19,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [James Thomas](https://github.com/parisminton)
   * [Jaymin Patel](https://github.com/jayminkapish)
   * [Mike Andre](https://github.com/mtandre)
+  * [Neil Berg](https://github.com/neil-berg)
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
   * [Scott Blumenthal](https://twitter.com/blumysden) ([github](https://github.com/blumysden))
   * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
