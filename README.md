@@ -25,6 +25,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
   * [Will Houp](https://twitter.com/williamhoup) ([github](https://github.com/willhoup))
   * [Amy Hughes](https://github.com/amykatherinehughes)
+  * [Vivian Li](https://github.com/teacupkittie)
 
 ## Current Projects
 
