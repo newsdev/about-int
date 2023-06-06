@@ -19,6 +19,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Isaac White](https://github.com/isaacwhite)
   * [James Thomas](https://github.com/parisminton)
   * [Jaymin Patel](https://github.com/jayminkapish)
+  * [Michelle Lum](https://github.com/michelleklum)
   * [Mike Andre](https://github.com/mtandre)
   * [Neil Berg](https://github.com/neil-berg)
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
@@ -26,7 +27,6 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
   * [Urvashi Uberoy](https://twitter.com/urvashiuberoy) ([github](https://github.com/uuberoy))
   * [Will Houp](https://twitter.com/williamhoup) ([github](https://github.com/willhoup))
-  * [Michelle Lum](https://github.com/michelleklum)
 
 ## Current Projects
 
