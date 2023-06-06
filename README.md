@@ -10,6 +10,7 @@ We build tools for reporters, editors and designers as well as special projects 
 
   * [Aaron Krolik](https://github.com/aaronkrolik)
   * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
+  * [Amy Hughes](https://github.com/amykatherinehughes)
   * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
   * [Andrew Fischer](https://twitter.com/ndrewfischer) ([github](https://github.com/afischer))
   * [Annie Daniel](https://github.com/anniedaniel)
@@ -25,8 +26,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
   * [Urvashi Uberoy](https://twitter.com/urvashiuberoy) ([github](https://github.com/uuberoy))
   * [Will Houp](https://twitter.com/williamhoup) ([github](https://github.com/willhoup))
-  * [Amy Hughes](https://github.com/amykatherinehughes)
-  * [Vivian Li](https://github.com/teacupkittie)
+  * [Michelle Lum](https://github.com/michelleklum)
 
 ## Current Projects
 
