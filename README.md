@@ -29,20 +29,15 @@ We build tools for reporters, editors and designers as well as special projects 
 ## Current Projects
 
 **Self-service newsroom tools** that allow our reporters and editors to publish highly interactive work on their own:
-  * [Tap Stories](https://www.nytimes.com/interactive/2018/09/18/multimedia/hurricane-florence-motel-evacuees.html), for creating visual, mobile-first stories
+  * [Tap Stories](https://www.nytimes.com/interactive/2023/09/20/multimedia/norway-library-boat-bookstore.html), for creating visual, mobile-first stories
   * [Adventure](https://www.nytimes.com/interactive/2016/12/12/us/law-quiz-criminal-justice.html), for building quizzes and interactive stories
   * [DocTools](https://www.nytimes.com/2021/11/10/nyregion/cuomo-transcripts-key-moments.html), for deep source-document collaborations, analysis and publishing 
 
 **Reporting tools** to help our newsroom drill deeper into beats and make unexpected connections:
-  * An internal campaign finance database and [front end](https://github.com/newsdev/nyt-fec) feeding [stories](https://www.nytimes.com/2018/11/30/us/politics/michael-bloomberg-democrats-donate.html) and [graphics](https://www.nytimes.com/interactive/2018/05/02/us/politics/democratic-fundraising-midterm-elections.html).
-  * Ongoing collection and continued support of [voter file data](https://www.nytimes.com/2018/05/20/us/politics/young-voters-registration-parkland.html) from US states.
-  * A set of tools to help the newsroom optimize, manage and search documents.
+  * An internal campaign finance database feeding [stories](https://www.nytimes.com/2022/06/14/us/politics/trump-fundraising-jan-6.html) and [graphics](https://www.nytimes.com/interactive/2019/08/02/us/politics/2020-democratic-fundraising.html).
   * The secure, encrypted and anonymous tip-collection system at [nytimes.com/tips](https://www.nytimes.com/tips).
   * A “zoo of bots” 🦓🐯💻🤖 to alert reporters to newly posted data or changed data on the web.
-  * [Analysis tools](https://github.com/newsdev/nyt-scotus) for Supreme Court data.
-  * A tool to [recognize members of Congress by sight](https://open.nytimes.com/how-the-new-york-times-uses-software-to-recognize-members-of-congress-29b46dd426c7).
-  * Continued support since 2011 for the  [The Guantánamo Docket](https://www.nytimes.com/interactive/projects/guantanamo), one of the longest-lived public news   applications.
-  * An internal Congress API for building [data stories](https://www.nytimes.com/interactive/2017/09/25/us/republicans-who-opposed-the-senate-health-care-bills.html) about the legislative branch.
+  * Continued support since 2011 for the [The Guantánamo Docket](https://www.nytimes.com/interactive/projects/guantanamo), one of the longest-lived public news applications.
 
 **Tools to create more direct and meaningful newsroom/reader interactions** including:
   * A pipeline for reader submissions to drive [stories dependent on reader voices](https://www.nytimes.com/interactive/2018/05/10/style/sexual-consent-college-campus.html).
@@ -60,7 +55,7 @@ We build tools for reporters, editors and designers as well as special projects 
 **Collaborations with Graphics and The Upshot**
   * [Live Polling](https://www.nytimes.com/interactive/2018/upshot/elections-polls.html)
 
-**Infrastructure** to support operations for newsroom developers across Interactive News, [NYT Graphics](https://twitter.com/nytgraphics) and [NYT News Design](https://twitter.com/nytdesign), including a [cloud deployment system](https://open.nytimes.com/agrarian-scale-kubernetes-part-1-7ea703d4de08) that hosts 130+ applications.
+**Infrastructure** to support operations for newsroom developers across Interactive News, [NYT Graphics](https://twitter.com/nytgraphics) and [NYT News Design](https://twitter.com/nytdesign).
 
 ## Our Partners
 
@@ -74,9 +69,6 @@ If you're interested, please fill out our [contact form](https://docs.google.com
 
 ## Open Source Invented Here
   * [ArchieML](http://archieml.org/)
-  * [nyt-fec](https://github.com/newsdev/nyt-fec) and [fech](http://nytimes.github.io/Fech/) 
-  * [driveshaft](https://github.com/newsdev/driveshaft)
-  * [docviewer](https://github.com/nytimes/document-viewer)
   * [library](https://github.com/nytimes/library)
 
 ## Press
