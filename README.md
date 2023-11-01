@@ -32,6 +32,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Tap Stories](https://www.nytimes.com/interactive/2023/09/20/multimedia/norway-library-boat-bookstore.html), for creating visual, mobile-first stories
   * [Adventure](https://www.nytimes.com/interactive/2016/12/12/us/law-quiz-criminal-justice.html), for building quizzes and interactive stories
   * [DocTools](https://www.nytimes.com/interactive/2023/06/09/us/trump-indictment-document-annotated.html), for deep source-document collaborations, analysis and publishing 
+  * Attribute, a pipeline for reader submissions to drive [stories dependent on reader voices](https://www.nytimes.com/interactive/2020/world/coronavirus-health-care-workers.html).
 
 **Reporting tools** to help our newsroom drill deeper into beats and make unexpected connections:
   * An internal campaign finance database feeding [stories](https://www.nytimes.com/2022/06/14/us/politics/trump-fundraising-jan-6.html) and [graphics](https://www.nytimes.com/interactive/2019/08/02/us/politics/2020-democratic-fundraising.html).
@@ -40,7 +41,6 @@ We build tools for reporters, editors and designers as well as special projects 
   * Continued support since 2011 for the [The Guantánamo Docket](https://www.nytimes.com/interactive/projects/guantanamo), one of the longest-lived public news applications.
 
 **Tools to create more direct and meaningful newsroom/reader interactions** including:
-  * A pipeline for reader submissions to drive [stories dependent on reader voices](https://www.nytimes.com/interactive/2018/05/10/style/sexual-consent-college-campus.html).
   * An [interactive messaging experience](https://open.nytimes.com/from-pyeongchang-to-your-pocket-developing-a-new-way-to-follow-the-olympics-1e8904ee0919) for readers to follow our reporters in the field.
 
 **Scalable data pipelines** to support major event coverage including:
