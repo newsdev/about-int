@@ -31,7 +31,7 @@ We build tools for reporters, editors and designers as well as special projects 
 **Self-service newsroom tools** that allow our reporters and editors to publish highly interactive work on their own:
   * [Tap Stories](https://www.nytimes.com/interactive/2023/09/20/multimedia/norway-library-boat-bookstore.html), for creating visual, mobile-first stories
   * [Adventure](https://www.nytimes.com/interactive/2016/12/12/us/law-quiz-criminal-justice.html), for building quizzes and interactive stories
-  * [DocTools](https://www.nytimes.com/2021/11/10/nyregion/cuomo-transcripts-key-moments.html), for deep source-document collaborations, analysis and publishing 
+  * [DocTools](https://www.nytimes.com/interactive/2023/06/09/us/trump-indictment-document-annotated.html), for deep source-document collaborations, analysis and publishing 
 
 **Reporting tools** to help our newsroom drill deeper into beats and make unexpected connections:
   * An internal campaign finance database feeding [stories](https://www.nytimes.com/2022/06/14/us/politics/trump-fundraising-jan-6.html) and [graphics](https://www.nytimes.com/interactive/2019/08/02/us/politics/2020-democratic-fundraising.html).
