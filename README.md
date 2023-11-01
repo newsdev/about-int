@@ -34,6 +34,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Tap Stories](https://www.nytimes.com/interactive/2018/09/18/multimedia/hurricane-florence-motel-evacuees.html), for creating visual, mobile-first stories
   * [Adventure](https://www.nytimes.com/interactive/2016/12/12/us/law-quiz-criminal-justice.html), for building quizzes and interactive stories
   * [DocTools](https://www.nytimes.com/2021/11/10/nyregion/cuomo-transcripts-key-moments.html), for deep source-document collaborations, analysis and publishing 
+  * Attribute, a pipeline for reader submissions to drive [stories dependent on reader voices](https://www.nytimes.com/interactive/2020/world/coronavirus-health-care-workers.html).
 
 **Reporting tools** to help our newsroom drill deeper into beats and make unexpected connections:
   * An internal campaign finance database and [front end](https://github.com/newsdev/nyt-fec) feeding [stories](https://www.nytimes.com/2018/11/30/us/politics/michael-bloomberg-democrats-donate.html) and [graphics](https://www.nytimes.com/interactive/2018/05/02/us/politics/democratic-fundraising-midterm-elections.html).
@@ -47,7 +48,6 @@ We build tools for reporters, editors and designers as well as special projects 
   * An internal Congress API for building [data stories](https://www.nytimes.com/interactive/2017/09/25/us/republicans-who-opposed-the-senate-health-care-bills.html) about the legislative branch.
 
 **Tools to create more direct and meaningful newsroom/reader interactions** including:
-  * A pipeline for reader submissions to drive [stories dependent on reader voices](https://www.nytimes.com/interactive/2018/05/10/style/sexual-consent-college-campus.html).
   * An [interactive messaging experience](https://open.nytimes.com/from-pyeongchang-to-your-pocket-developing-a-new-way-to-follow-the-olympics-1e8904ee0919) for readers to follow our reporters in the field.
 
 **Scalable data pipelines** to support major event coverage including:
