@@ -1,10 +1,12 @@
 # How can a developer help The New York Times newsroom?
 
 ## Who We Are
-We are a digital projects team embedded within The New York Times newsroom. We work on behind-the-scenes technology, collaborating with teams that handle data, graphics and unique design presentations. 
+We are a software development team embedded within The New York Times newsroom. We work on behind-the-scenes technology, collaborating with teams that handle data, graphics and unique design presentations. We build tools for reporters, editors and designers as well as special projects for our readers.  We run experiments as well as guide, train and support the use of these tools.
 
-We build tools for reporters, editors and designers as well as special projects for our readers.  We run experiments as well as guide, train and support the use of these tools.
-
+Our goal is to apply software engineering as a newsroom craft towards:
+- Bringing our readers stories they can’t get anywhere else
+- Helping the wider newsroom see and pursue stories we wouldn’t otherwise be able to 
+- Making the seemingly impossible story possible
 
 **The Team (alphabetical order)**
 
@@ -14,7 +16,6 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
   * [Andrew Fischer](https://twitter.com/ndrewfischer) ([github](https://github.com/afischer))
   * [Annie Daniel](https://github.com/anniedaniel)
-  * [Asmaa Elkeurti](https://twitter.com/a_elkeurti) ([github](https://github.com/asmaaelk))
   * [Ben Koski](https://github.com/bkoski)
   * [Isaac White](https://github.com/isaacwhite)
   * [James Thomas](https://github.com/parisminton)
@@ -22,7 +23,7 @@ We build tools for reporters, editors and designers as well as special projects 
   * [Mike Andre](https://github.com/mtandre)
   * [Neil Berg](https://github.com/neil-berg)
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
-  * [Tiff Fehr](https://twitter.com/tiffehr) ([github](https://github.com/tiffehr))
+  * [Tiff Fehr](https://github.com/tiffehr)
   * [Urvashi Uberoy](https://twitter.com/urvashiuberoy) ([github](https://github.com/uuberoy))
   * [Will Houp](https://twitter.com/williamhoup) ([github](https://github.com/willhoup))
 
