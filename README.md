@@ -10,20 +10,21 @@ Our goal is to apply software engineering as a newsroom craft towards:
 
 **The Team (alphabetical order)**
 
-  * [Aaron Krolik](https://github.com/aaronkrolik)
   * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
   * [Amy Hughes](https://github.com/amykatherinehughes)
   * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
   * [Andrew Fischer](https://twitter.com/ndrewfischer) ([github](https://github.com/afischer))
   * [Annie Daniel](https://github.com/anniedaniel)
   * [Ben Koski](https://github.com/bkoski)
+  * [Dan Simmons-Ritchie](https://github.com/simmonsritchie)
+  * [Emma Baker](https://github.com/emlorraine)
   * [Isaac White](https://github.com/isaacwhite)
-  * [James Thomas](https://github.com/parisminton)
+  * [James Thomas](https://www.nytimes.com/by/james-thomas) ([github](https://github.com/parisminton))
   * [Jaymin Patel](https://github.com/jayminkapish)
   * [Mike Andre](https://github.com/mtandre)
   * [Neil Berg](https://github.com/neil-berg)
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
-  * [Tiff Fehr](https://github.com/tiffehr)
+  * [Tiff Fehr](https://www.nytimes.com/by/tiff-fehr) ([github](https://github.com/tiffehr))
   * [Urvashi Uberoy](https://twitter.com/urvashiuberoy) ([github](https://github.com/uuberoy))
   * [Will Houp](https://twitter.com/williamhoup) ([github](https://github.com/willhoup))
 
