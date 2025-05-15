@@ -24,7 +24,6 @@ Our goal is to apply software engineering as a newsroom craft towards:
   * [Mike Andre](https://github.com/mtandre)
   * [Neil Berg](https://github.com/neil-berg)
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
-  * [Tiff Fehr](https://www.nytimes.com/by/tiff-fehr) ([github](https://github.com/tiffehr))
   * [Urvashi Uberoy](https://twitter.com/urvashiuberoy) ([github](https://github.com/uuberoy))
   * [Will Houp](https://twitter.com/williamhoup) ([github](https://github.com/willhoup))
 
