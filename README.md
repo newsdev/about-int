@@ -1,67 +1,67 @@
 # How can a developer help The New York Times newsroom?
 
 ## Who We Are
-We are a software development team embedded within The New York Times newsroom. We work on behind-the-scenes technology, collaborating with teams that handle data, graphics and unique design presentations. We build tools for reporters, editors and designers as well as special projects for our readers.  We run experiments as well as guide, train and support the use of these tools.
 
-Our goal is to apply software engineering as a newsroom craft towards:
-- Bringing our readers stories they can’t get anywhere else
-- Helping the wider newsroom see and pursue stories we wouldn’t otherwise be able to 
-- Making the seemingly impossible story possible
+We are a team of software engineers in The New York Times newsroom, seeking to apply software engineering as a newsroom craft to:
+- Bring our readers stories they can’t get anywhere else
+- Help the wider newsroom see and pursue stories we wouldn’t otherwise be able to 
+- Make the seemingly impossible story possible
 
-**The Team (alphabetical order)**
+We build tools for reporters, editors and designers, as well as special projects for our readers.  We run experiments as well as guide, train and support the use of these tools.
 
-  * [Alastair Coote](https://twitter.com/_alastair) ([github](https://github.com/alastaircoote))
-  * [Amy Hughes](https://github.com/amykatherinehughes)
-  * [Andrew Chavez](https://twitter.com/adchavez) ([github](https://github.com/achavez))
-  * [Andrew Fischer](https://twitter.com/ndrewfischer) ([github](https://github.com/afischer))
-  * [Annie Daniel](https://github.com/anniedaniel)
-  * [Ben Koski](https://github.com/bkoski)
-  * [Dan Simmons-Ritchie](https://github.com/simmonsritchie)
-  * [Emma Baker](https://github.com/emlorraine)
-  * [Isaac White](https://github.com/isaacwhite)
-  * [James Thomas](https://www.nytimes.com/by/james-thomas) ([github](https://github.com/parisminton))
-  * [Jaymin Patel](https://github.com/jayminkapish)
-  * [Mike Andre](https://github.com/mtandre)
-  * [Neil Berg](https://github.com/neil-berg)
+We work in tight collaboration with interactive groups that handle data, graphics, A.I. and special design presentations, as well as other teams across the newsroom and company.
+
+In our work, we look to drive editorial impact, drive innovation, operate responsibly and sustainably, and collaborate generously.
+
+**The Team**
+
+  * [Alastair Coote](https://www.nytimes.com/by/alastair-coote) ([github](https://github.com/alastaircoote))
+  * Amy Hughes ([github](https://github.com/amykatherinehughes))
+  * [Andrew Chavez](https://www.nytimes.com/by/andrew-chavez) ([github](https://github.com/achavez))
+  * [Andrew Fischer](https://www.nytimes.com/by/andrew-fischer) ([github](https://github.com/afischer))
+  * [Annie Daniel](https://www.nytimes.com/by/annie-daniel) ([github](https://github.com/anniedaniel))
+  * Ben Koski ([github](https://github.com/bkoski))
+  * [Dan Simmons-Ritchie](https://www.nytimes.com/by/dan-simmons-ritchie) ([github](https://github.com/simmonsritchie))
+  * [Emma Baker](https://www.nytimes.com/by/emma-baker) ([github](https://github.com/emlorraine))
+  * Jaymin Patel ([github](https://github.com/jayminkapish))
+  * Mike Andre ([github](https://github.com/mtandre))
+  * [Neil Berg](https://www.nytimes.com/by/neil-berg) ([github](https://github.com/neil-berg))
   * [Rachel Shorey](https://www.nytimes.com/by/rachel-shorey)  ([github](https://github.com/rshorey))
-  * [Urvashi Uberoy](https://twitter.com/urvashiuberoy) ([github](https://github.com/uuberoy))
-  * [Will Houp](https://twitter.com/williamhoup) ([github](https://github.com/willhoup))
+  * [Will Houp](https://www.nytimes.com/by/will-houp) ([github](https://github.com/willhoup))
 
-## Current Projects
+## A sampling of recent projects
 
-**Self-service newsroom tools** that allow our reporters and editors to publish highly interactive work on their own:
-  * [Tap Stories](https://www.nytimes.com/interactive/2023/09/20/multimedia/norway-library-boat-bookstore.html), for creating visual, mobile-first stories
-  * [Adventure](https://www.nytimes.com/interactive/2022/science/is-pluto-a-planet.html), for building quizzes and interactive stories
-  * [DocTools](https://www.nytimes.com/interactive/2023/06/09/us/trump-indictment-document-annotated.html), for deep source-document collaborations, analysis and publishing 
-  * Attribute, a pipeline for reader submissions to drive [stories dependent on reader voices](https://www.nytimes.com/interactive/2020/world/coronavirus-health-care-workers.html).
+**Newsgathering and reporting tools** to help our newsroom drill deeper into beats and make unexpected connections, including:
+  * Scalable document research for [enterprise](https://www.nytimes.com/spotlight/the-civilian-casualty-files-pentagon-reports) and [breaking-news](https://www.nytimes.com/2026/02/12/insider/jeffrey-epstein-files-documents.html) stories backed by documents
+  * The secure, encrypted and anonymous tip-collection system at [nytimes.com/tips](https://www.nytimes.com/tips)
+  * Scaling for [A.I. in the newsroom](https://www.ire.org/2025/12/06/inside-the-new-york-timess-a-i-toolkit/), in partnership with [A.I. Initiatives](https://www.nytco.com/press/introducing-the-a-i-initiatives-team/)
+  * An internal campaign finance database feeding [stories](https://www.nytimes.com/2022/06/14/us/politics/trump-fundraising-jan-6.html) and [graphics](https://www.nytimes.com/interactive/2019/08/02/us/politics/2020-democratic-fundraising.html)
+  * Continued support since 2011 for the [The Guantánamo Docket](https://www.nytimes.com/interactive/2021/us/guantanamo-bay-detainees.html), one of the longest-lived public news applications
+  * A full suite of data acquisition tools
 
-**Reporting tools** to help our newsroom drill deeper into beats and make unexpected connections:
-  * An internal campaign finance database feeding [stories](https://www.nytimes.com/2022/06/14/us/politics/trump-fundraising-jan-6.html) and [graphics](https://www.nytimes.com/interactive/2019/08/02/us/politics/2020-democratic-fundraising.html).
-  * The secure, encrypted and anonymous tip-collection system at [nytimes.com/tips](https://www.nytimes.com/tips).
-  * A “zoo of bots” 🦓🐯💻🤖 to alert reporters to newly posted data or changed data on the web.
-  * Continued support since 2011 for the [The Guantánamo Docket](https://www.nytimes.com/interactive/projects/guantanamo), one of the longest-lived public news applications.
-
-**Tools to create more direct and meaningful newsroom/reader interactions** including:
-  * A system for storing and retrieving [reader-input data](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)
-  * An [interactive messaging experience](https://open.nytimes.com/from-pyeongchang-to-your-pocket-developing-a-new-way-to-follow-the-olympics-1e8904ee0919) for readers to follow our reporters in the field.
+**Self-service newsroom tools**: We pitch and develop software that allows reporters and editors to publish highly interactive work on their own
+  * Quizzes, including the [News Quiz](https://www.nytimes.com/spotlight/news-quiz), [The Hunt](https://www.nytimes.com/column/the-hunt), and the [John Hodgman advice quiz](https://www.nytimes.com/column/judge-john-hodgman)
+  * Storage and retrieval of reader-input data, powering a wide variety of projects including [news games](https://www.nytimes.com/spotlight/flashback), [WordleBot](https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html), [poetry memorization](https://www.nytimes.com/interactive/2026/books/wh-auden-the-more-loving-one-poetry-challenge.html), [art appreciation](https://www.nytimes.com/spotlight/10-minute-challenge) and [place-saving within an article](https://www.nytimes.com/interactive/2025/02/05/opinion/coming-out-evangelical-pastor.html)
+  * Reader submission collection that contributes to reporting and [standalone pieces](https://www.nytimes.com/interactive/2024/02/25/us/census-race-ethnicity-middle-east-north-africa.html)
+  * Document publication to get [primary source material](https://www.nytimes.com/interactive/2019/04/18/us/politics/mueller-report-document.html) to readers
 
 **Scalable data pipelines** to support major event coverage including:
-  * The [loaders and APIs](https://source.opennews.org/articles/introducing-elex-tool-make-election-coverage-bette/) that drives The New York Times [election results.](https://www.nytimes.com/2018/03/05/insider/election-night-data.html)
-  * The [API](https://source.opennews.org/articles/london-calling-winning-data-olympics/) that powers our Olympic results and graphics.
+  * [Election results](https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president.html)
+  * [Polling](https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html)
+  * [Olympics](https://www.nytimes.com/interactive/2024/world/olympics-results-medals.html)
 
-**Experiments with new technologies**
-  * [Calendaring](https://www.nytimes.com/interactive/2018/science/astronomy-space-calendar.html)
+## Projects and experiments
+Our goal as a team is continued experimentation and innovation. Some of these projects are continually maintained by INT, some are creative one-offs, others eventually "graduate" to become core components of the CMS.
+
+  * Modern video player powering [video-heavy stories](https://www.nytimes.com/interactive/2026/magazine/greatest-american-songwriters-alive.html)
+  * Live Activities showing election results on the iOS lock screen
+  * [Calendar integrations](https://www.nytimes.com/interactive/2018/science/astronomy-space-calendar.html)
   * [Push notifications](https://www.nytimes.com/interactive/2018/11/05/us/elections/live-elections-2018-push-signup.html)
   * [AMP](https://www.nytimes.com/elections/results/results-house-elections.amp.html)
-
-**Collaborations with Graphics and The Upshot**
   * [Live Polling](https://www.nytimes.com/interactive/2018/upshot/elections-polls.html)
+  * [Tap Stories](https://www.nytimes.com/interactive/2023/09/20/multimedia/norway-library-boat-bookstore.html)
+  * COVID data [acquisition](https://www.nytimes.com/interactive/2023/us/covid-cases.html) and [publication](https://github.com/nytimes/covid-19-data)
 
-**Infrastructure** to support operations for newsroom developers across Interactive News, [NYT Graphics](https://twitter.com/nytgraphics) and [NYT News Design](https://twitter.com/nytdesign).
-
-## Our Partners
-
-We collaborate closely with [NYT Graphics](https://twitter.com/nytgraphics), our Computer-Assisted Reporting (CAR) desk, [NYT News Design](https://twitter.com/nytdesign), [The Upshot](https://www.nytimes.com/section/upshot) and the [NYT technology department](https://open.nytimes.com/workplace-culture/home).
 
 ## Stay In Touch
 
@@ -74,6 +74,7 @@ If you're interested, please fill out our [contact form](https://docs.google.com
   * [library](https://github.com/nytimes/library)
 
 ## Press
+  * 2026: [How The Times Is Digging Into Millions of Pages of Epstein Files](https://www.nytimes.com/2026/02/12/insider/jeffrey-epstein-files-documents.html)
   * 2021: [Presentation at Tufts University's DISC program](https://tufts.zoom.us/rec/play/UVYJP8G9dhgyEdD7XdogiptnkjQlT2VI_NKqnew3OGjXdTdCW27ZCrZwTQk5lfWhqM6aMFZzyj4k1uXx.l0SrVCK7eviEOzx5?startTime=1632427281000&_x_zm_rtaid=ZxApr5sESB2LkPiVsCHHMg.1636744255943.176c8cba40a093db0e666b4dba335017&_x_zm_rhtaid=105) about our Coronavirus Trackers, from data acquistion (INT & more) to visuals (Graphics)
   * 2021: [Public Service award from the Pulitzer board](https://www.poynter.org/reporting-editing/2021/the-new-york-times-wins-the-public-service-pulitzer-for-its-coronavirus-coverage/) (Poynter's write-up) 
   * 2020-2021: [Tracking Covid-19 From Hundreds of Sources, One Extracted Record at a Time](https://open.nytimes.com/tracking-covid-19-from-hundreds-of-sources-one-extracted-record-at-a-time-dd8cbd31f9b4) which details INT's role in our Coronavirus Trackers during the pandemic
